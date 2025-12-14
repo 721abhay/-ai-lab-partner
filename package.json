@@ -1,0 +1,21 @@
+
+{
+  "name": "lab-partner-ai",
+  "version": "1.0.0",
+  "description": "An intelligent science education platform combining real-time AI vision analysis (Gemini) with interactive 3D virtual experiments (Three.js).",
+  "keywords": [
+    "react",
+    "ai",
+    "science",
+    "education",
+    "threejs",
+    "gemini-api",
+    "virtual-lab"
+  ],
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx serve"
+  },
+  "dependencies": {}
+}

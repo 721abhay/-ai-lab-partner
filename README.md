@@ -1,11 +1,25 @@
-<div align="center">
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+# Lab Partner AI
 
-  <h1>Built with AI Studio</h2>
+An intelligent laboratory assistant featuring real-time camera analysis, virtual 3D experiment simulations, and comprehensive scientific tools.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Features
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+- **Real Lab Mode**: Uses AI (Gemini 1.5 Flash) to analyze video streams of real-world experiments for safety and identification.
+- **Virtual Lab**: Interactive 3D environment (Three.js) for Chemistry, Biology, and Physics simulations.
+- **Teacher Dashboard**: Tools for classroom management, grading, and safety monitoring.
+- **Accessibility**: High contrast modes, text-to-speech narration, and colorblind support.
+- **Offline Capable**: Caches content and uses IndexedDB for local data storage.
 
-</div>
+## Tech Stack
+
+- **Frontend**: React, TypeScript, Tailwind CSS
+- **3D Graphics**: Three.js
+- **AI**: Google Gemini API
+- **Icons**: Lucide React
+
+## Setup
+
+1. This project uses ES Modules via CDN (esm.sh). No build step is strictly required for development.
+2. Serve the root directory using a local server (e.g., `npx serve`, Live Server, or `python -m http.server`).
+3. Ensure you have a valid API Key for Google Gemini configured in your environment.
