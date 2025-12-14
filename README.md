@@ -1,7 +1,7 @@
 
-# Lab Partner AI
+# AI Lab Partner
 
-An intelligent laboratory assistant featuring real-time camera analysis, virtual 3D experiment simulations, and comprehensive scientific tools.
+An intelligent science education platform combining real-time AI vision analysis (Gemini) with interactive 3D virtual experiments (Three.js).
 
 ## Features
 

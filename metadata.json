@@ -1,5 +1,5 @@
 {
-  "name": "Lab Partner AI",
+  "name": "AI Lab Partner",
   "description": "An intelligent science education platform combining real-time AI vision analysis (Gemini) with interactive 3D virtual experiments (Three.js).",
   "requestFramePermissions": [
     "camera",

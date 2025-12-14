@@ -125,7 +125,7 @@ const App: React.FC = () => {
             <div className="flex items-center gap-2">
             <Beaker className="w-6 h-6 text-lab-accent" />
             <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-cyan-400 to-blue-500">
-                Lab Partner AI
+                AI Lab Partner
             </span>
             </div>
             <div className="flex items-center gap-2">
